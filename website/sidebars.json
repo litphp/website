@@ -1,0 +1,31 @@
+{
+  "docs": {
+    "Guides": [
+      "index",
+      "quickstart",
+      "concepts",
+      "runner"
+    ],
+    "Nimo": [
+      "nimo",
+      "nimo-condition",
+      "nimo-exception",
+      "nimo-roll"
+    ],
+    "Voltage": [
+      "voltage",
+      "voltage-view",
+      "voltage-router"
+    ],
+    "Air": [
+      "air",
+      "air-local",
+      "air-dynamic",
+      "air-di",
+      "air-config"
+    ],
+    "Bolt": [
+      "bolt"
+    ]
+  }
+}
