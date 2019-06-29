@@ -17,7 +17,7 @@ composer require litphp/bolt
 You can use `litphp/project` boilerplate to create a standard bolt project quickly
 
 ```sh
-composer create-project --remove-vcs -s dev litphp/project myproject
+composer create-project --remove-vcs litphp/project myproject
 ```
 
 ## Air (DI) on Voltage
