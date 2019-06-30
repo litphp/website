@@ -76,6 +76,78 @@
       "voltage": {
         "title": "Introduction",
         "sidebar_label": "Introduction"
+      },
+      "version-0.9.0-air-config": {
+        "title": "Configuration",
+        "sidebar_label": "Configuration"
+      },
+      "version-0.9.0-air-di": {
+        "title": "Dependency injection",
+        "sidebar_label": "Dependency Injection"
+      },
+      "version-0.9.0-air-dynamic": {
+        "title": "Dynamic Entries",
+        "sidebar_label": "Dynamic Entries"
+      },
+      "version-0.9.0-air-local": {
+        "title": "Local entries",
+        "sidebar_label": "Local Entries"
+      },
+      "version-0.9.0-air": {
+        "title": "Introduction",
+        "sidebar_label": "Introduction"
+      },
+      "version-0.9.0-bolt": {
+        "title": "Introduction",
+        "sidebar_label": "Introduction"
+      },
+      "version-0.9.0-concepts": {
+        "title": "Core concepts of Lit",
+        "sidebar_label": "Core concepts"
+      },
+      "version-0.9.0-design": {
+        "title": "Design Principals",
+        "sidebar_label": "Design Principals"
+      },
+      "version-0.9.0-index": {
+        "title": "Documentation",
+        "sidebar_label": "Introduction"
+      },
+      "version-0.9.0-nimo-condition": {
+        "title": "Conditional middleware",
+        "sidebar_label": "Condition"
+      },
+      "version-0.9.0-nimo-exception": {
+        "title": "Handling Exceptions",
+        "sidebar_label": "Exception handling"
+      },
+      "version-0.9.0-nimo-roll": {
+        "title": "Write your own",
+        "sidebar_label": "Write your own"
+      },
+      "version-0.9.0-nimo": {
+        "title": "Introduction",
+        "sidebar_label": "Introduction"
+      },
+      "version-0.9.0-quickstart": {
+        "title": "Quick Start",
+        "sidebar_label": "Quick Start"
+      },
+      "version-0.9.0-runner": {
+        "title": "Runner and servers",
+        "sidebar_label": "Runner and servers"
+      },
+      "version-0.9.0-voltage-router": {
+        "title": "Router",
+        "sidebar_label": "Router"
+      },
+      "version-0.9.0-voltage-view": {
+        "title": "View",
+        "sidebar_label": "View"
+      },
+      "version-0.9.0-voltage": {
+        "title": "Introduction",
+        "sidebar_label": "Introduction"
       }
     },
     "links": {

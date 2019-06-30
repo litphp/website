@@ -1,0 +1,31 @@
+{
+  "version-0.9.0-docs": {
+    "Guides": [
+      "version-0.9.0-index",
+      "version-0.9.0-quickstart",
+      "version-0.9.0-concepts",
+      "version-0.9.0-runner"
+    ],
+    "Nimo": [
+      "version-0.9.0-nimo",
+      "version-0.9.0-nimo-condition",
+      "version-0.9.0-nimo-exception",
+      "version-0.9.0-nimo-roll"
+    ],
+    "Voltage": [
+      "version-0.9.0-voltage",
+      "version-0.9.0-voltage-view",
+      "version-0.9.0-voltage-router"
+    ],
+    "Air": [
+      "version-0.9.0-air",
+      "version-0.9.0-air-local",
+      "version-0.9.0-air-dynamic",
+      "version-0.9.0-air-di",
+      "version-0.9.0-air-config"
+    ],
+    "Bolt": [
+      "version-0.9.0-bolt"
+    ]
+  }
+}
