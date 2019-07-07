@@ -14,7 +14,7 @@ In configuration array, the top-level key is the entry key of container, and the
 + If value is a callable, it's recognized as a builder function, will return a singleton-ized (decorated) `BuilderRecipe` object with value. If you've used [Pimple](https://github.com/silexphp/Pimple) you will find way home
 + If value is an array with key '$', it's preserved "array notation" of recipe, will be converted to recipe object (more detail in next section)
 + Finally, we use the value directly, that's said scalar type, resource type, most user object can be directly used.
-  + for array, we recommend always wrap with `Container::value` (FixedValueRecipe) to be explicit
+  + for array, we recommend always wrap with `FixedValueRecipe` to be explicit, simple use `C::value($array)`
 
 Keys ended with `::` should be array providing dependency for [DI procedure](air-di#working-on-dependencies), it's value must be array, and items inside are parsed by above rule
 
