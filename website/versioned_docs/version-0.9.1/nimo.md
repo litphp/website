@@ -1,7 +1,8 @@
 ---
-id: nimo
+id: version-0.9.1-nimo
 title: Introduction
 sidebar_label: Introduction
+original_id: nimo
 ---
 
 Nimo helps you to organize your middlewares (and handlers).

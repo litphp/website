@@ -29,6 +29,10 @@
         "title": "Introduction",
         "sidebar_label": "Introduction"
       },
+      "changelog": {
+        "title": "Release Notes",
+        "sidebar_label": "Release Notes"
+      },
       "concepts": {
         "title": "Core concepts of Lit",
         "sidebar_label": "Core concepts"

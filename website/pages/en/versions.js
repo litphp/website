@@ -28,7 +28,10 @@ function Versions(props) {
           <header className="postHeader">
             <h1>{siteConfig.title} Versions</h1>
           </header>
-          <p>New versions of this project are released every so often.</p>
+          <p>
+            Unstable documentation of next version can be found <a href={`${siteConfig.baseUrl}${siteConfig.docsUrl}/next/`}>here</a>.
+
+          </p>
           <h3 id="latest">Current version (Stable)</h3>
           <table className="versions">
             <tbody>
@@ -71,10 +74,10 @@ function Versions(props) {
                     <tr>
                       <th>{version}</th>
                       <td>
-                        <a href="">Documentation</a>
+                        <a href={`${siteConfig.baseUrl}${siteConfig.docsUrl}/${version}/`}>Documentation</a>
                       </td>
                       <td>
-                        <a href="">Release Notes</a>
+                        <a href={`${siteConfig.baseUrl}${siteConfig.docsUrl}/${version}/changelog/`}>Release Notes</a>
                       </td>
                     </tr>
                   ),
